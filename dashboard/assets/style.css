@@ -1,7 +1,7 @@
-/* ---------- General tweaks ---------- */
+/*General tweaks*/
 body { letter-spacing: 0.2px; }
 
-/* ---------- Dropdown (react-select v1 classes used by Dash) ---------- */
+/* Dropdown */
 .dd .Select-control {
   background-color: #1b1f2a;
   border: 1px solid #2b2f3a;
@@ -18,7 +18,7 @@ body { letter-spacing: 0.2px; }
   background-color: #232834;
   border: 1px solid #2b2f3a;
   border-radius: 10px;
-  z-index: 10000; /* keep menu above charts */
+  z-index: 10000; /*Keeps menu above chart*/
 }
 .dd .Select-option {
   color: #e6e6e6;
@@ -34,7 +34,7 @@ body { letter-spacing: 0.2px; }
   color: #e6e6e6;
 }
 
-/* ---------- DatePickerRange (airbnb classes) ---------- */
+/*DatePickerRange */
 .datepicker .DateRangePickerInput {
   background-color: #1b1f2a;
   border: 1px solid #2b2f3a;
